@@ -4,4 +4,4 @@ Hi there!
 
 Hello Kitty
 
-Welcom to the Jungle
+Welcome to the Jungle
